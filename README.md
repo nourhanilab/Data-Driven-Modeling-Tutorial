@@ -1,4 +1,5 @@
-# Kaggle-Bike-Sharing
+# Kaggle-Bike-Sharing -- A Tutorial for Data-Driven Modeling
+## Amir Nourhani
 [Kaggle's Bike Sharing problem](https://www.kaggle.com/c/bike-sharing-demand). I explopre the data, preprocess, visualize, analyze and an try different linear and nonlinear regression models and compare their performance on the data set. Each section is treated in a separate ipython notebook for ease of review. In summary, random forest gave the best values for Root Mean Squared Logarithmic Error (RMSLE), and the best model fitting results are for fitting on the deviations from the average logarithmic values (see 
 [10 - Kaggle - bike share system - Random Forest - comparing results](https://github.com/AmirNi2016/Kaggle-Bike-Sharing/blob/master/10%20-%20Kaggle%20-%20bike%20share%20system%20-%20Random%20Forest%20-%20comparing%20results.ipynb) for the details):
 
